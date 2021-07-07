@@ -25,3 +25,11 @@ Generates random number between the number range provided by the user.
 &#8226; [Repository](https://github.com/shm-dsgn/randomnumber)
 
 &#8226; [Website](https://shm-dsgn.github.io/randomnumber)
+
+
+### 4. Virtual Dice
+A virtual dice site in case you have lost the real one.
+
+&#8226; [Repository](https://github.com/shm-dsgn/virtual-dice)
+
+&#8226; [Website](https://shm-dsgn.github.io/virtual-dice)
