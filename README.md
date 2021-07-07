@@ -19,7 +19,7 @@ A simple soundboard with a single sound effect with a counter.
 &#8226; [Website](https://shm-dsgn.github.io/bruh-soundboard)
 
 
-### 2. Random Number Generator
+### 3. Random Number Generator
 Generates random number between the number range provided by the user.
 
 &#8226; [Repository](https://github.com/shm-dsgn/randomnumber)
