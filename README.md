@@ -1,4 +1,4 @@
-# html-css-projects
+# html-css-js-projects
 ## Collection of small projects based on HTML, CSS and JS. 
 These were created for self practice and to get acquainted with various syntaxes in the languages.
 
