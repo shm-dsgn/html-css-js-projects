@@ -35,5 +35,5 @@ A virtual dice site in case you have lost the real one.
 &#8226; [Website](https://shm-dsgn.github.io/virtual-dice)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shm-dsgn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
