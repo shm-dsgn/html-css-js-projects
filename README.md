@@ -35,5 +35,10 @@ A virtual dice site in case you have lost the real one.
 &#8226; [Website](https://shm-dsgn.github.io/virtual-dice)
 
 
+### 5. Birthday Calculator
+A calculator than calculates the remaining days left for your next birthday.
 
+&#8226; [Repository](https://github.com/shm-dsgn/bday-calculator)
+
+&#8226; [Website](https://shm-dsgn.github.io/bday-calculator)
 
