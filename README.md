@@ -42,3 +42,10 @@ A calculator than calculates the remaining days left for your next birthday.
 
 &#8226; [Website](https://shm-dsgn.github.io/bday-calculator)
 
+
+### 6. BMI Calculator
+A calculator that calculates your BMI based on your weight and height.
+
+&#8226; [Repository](https://github.com/shm-dsgn/bmi-calculator)
+
+&#8226; [Website](https://shm-dsgn.github.io/bmi-calculator)
